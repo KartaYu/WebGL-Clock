@@ -1,2 +1,2 @@
 # WebGL-Clock
-- 電腦圖學程式練習
+-![image](https://github.com/KartaYu/WebGL-Clock/blob/main/screenshot.png)
